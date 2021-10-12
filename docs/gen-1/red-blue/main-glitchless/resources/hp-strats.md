@@ -198,7 +198,8 @@ you but can increase the chance of you dying.
 | 9-15  | Normal strats (Late Drill)                                                                             |
 | 16    | TB turn 1, X Acc on Growlithe (Early Drill)                                                            |
 | 17-19 | Normal strats (Late Drill)                                                                             |
-| 20+   | X Acc turn 1 (Early Drill)                                                                             |
+| 20-27 | X Acc turn 1 (Early Drill)                                                                             |
+| 28+   | Normal strats (Late Drill)                                                                             |
 
 ## Koga Split
 
